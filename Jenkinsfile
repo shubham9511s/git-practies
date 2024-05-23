@@ -5,7 +5,7 @@ pipeline {
         stage('Stage 1') {
             steps {
                 // Your stage 1 steps here
-                echo"Stage 1 is Running"
+                echo"Stage 1 is Running is ok"
             
             }
             
